@@ -1,0 +1,1 @@
+{"username": "yang", "password": "960314", "user_dir": "/root/ftpserver/ftp_server/yang"}
